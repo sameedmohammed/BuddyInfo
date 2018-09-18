@@ -6,6 +6,7 @@ public class AddressBook {
 	ArrayList<BuddyInfo> collection = new ArrayList<BuddyInfo>();
 	
 	public static void main(String[] args) {
+		System.out.println("Address Book");
 		
 
 	}
